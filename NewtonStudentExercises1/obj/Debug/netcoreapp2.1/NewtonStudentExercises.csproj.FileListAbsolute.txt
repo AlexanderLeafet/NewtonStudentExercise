@@ -1,0 +1,11 @@
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\bin\Debug\netcoreapp2.1\NewtonStudentExercises.deps.json
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.json
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.dev.json
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\bin\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\bin\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfoInputs.cache
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfo.cs
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
+C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csprojAssemblyReference.cache

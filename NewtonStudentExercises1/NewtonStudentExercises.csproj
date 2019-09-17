@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Administratör\Github\Uppgifter.cs" Link="Uppgifter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="loopsWhile\" />
+    <Folder Include="loopsFor\" />
+  </ItemGroup>
+
+</Project>
