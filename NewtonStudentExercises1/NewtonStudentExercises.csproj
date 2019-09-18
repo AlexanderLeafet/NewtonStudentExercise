@@ -6,12 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Administratör\Github\Uppgifter.cs" Link="Uppgifter.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="loopsWhile\" />
     <Folder Include="loopsFor\" />
+    <Folder Include="loopsWhile\" />
   </ItemGroup>
 
 </Project>

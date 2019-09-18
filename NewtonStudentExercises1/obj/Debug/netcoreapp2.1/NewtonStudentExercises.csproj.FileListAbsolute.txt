@@ -9,3 +9,14 @@ C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\ob
 C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.dll
 C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
 C:\Users\Administratör\vsfiler\NewtonStudentExercises\NewtonStudentExercises\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csprojAssemblyReference.cache
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csprojAssemblyReference.cache
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfoInputs.cache
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfo.cs
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.deps.json
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.json
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.dev.json
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Admin-d158\Github\NewtonStudentExercises\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
