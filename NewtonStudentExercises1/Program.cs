@@ -15,6 +15,9 @@ namespace NewtonStudentExercises
             /*sequencePrograming.övning3 o3 = new sequencePrograming.övning3();
             o3.PrintTid();*/
 
+            /*sequencePrograming.övning4 o4 = new sequencePrograming.övning4();
+            o4.PrintAverage();*/
+
             /*sequencePrograming.övning5 o5 = new sequencePrograming.övning5();
             o5.ConvertCurrency();*/
 
