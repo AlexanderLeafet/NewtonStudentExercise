@@ -126,8 +126,23 @@ namespace NewtonStudentExercises
             /*loopsFor.övning37 o37 = new loopsFor.övning37();
             o37.PrintInputNum();*/
 
-            loopsWhile.övning39 o39 = new loopsWhile.övning39();
-            o39.PrintPriceWithVat();
+            /*loopsFor.övning41 o41 = new loopsFor.övning41();
+            o41.PrintAddNum();*/
+
+            /*loopsFor.övning42 o42 = new loopsFor.övning42();
+            o42.AddNum();*/
+
+            /*loopsFor.övning43 o43 = new loopsFor.övning43();
+            o43.PrintEvenNum();*/
+
+            /*loopsFor.övning44 o44 = new loopsFor.övning44();
+            o44.PrintChosenNum();*/
+
+            loopsFor.övning46 o46 = new loopsFor.övning46();
+            o46.EarnAMillion();
+
+            /*loopsWhile.övning39 o39 = new loopsWhile.övning39();
+            o39.PrintPriceWithVat();*/
 
 
             /*övning35 o35 = new övning35();
