@@ -37,7 +37,7 @@ namespace NewtonStudentExercises
             o10.PrintCelsius();*/
 
             /*ifConditions.övning11 o11 = new ifConditions.övning11();
-            o11.PrintIsVal1Bigger();*/
+            o11.PrintIsNum1Bigger();*/
 
             /*ifConditions.övning12 o12 = new ifConditions.övning12();
             o12.PrintVal1DoubleSize();*/
@@ -70,7 +70,7 @@ namespace NewtonStudentExercises
             o21.PrintTestaTalet();*/
 
             /*ifConditions.övning22 o22 = new ifConditions.övning22();
-            o22.PrintTestaInput();*/
+            o22.PrintTestInput();*/
 
             /*ifConditions.övning23 o23 = new ifConditions.övning23();
             o23.PrintKvot();*/
@@ -95,6 +95,43 @@ namespace NewtonStudentExercises
 
             /*ifConditions.övning29 o29 = new ifConditions.övning29();
             o29.PrintTrainTime();*/
+
+            /*loopsWhile.WhileExample we1 = new loopsWhile.WhileExample();
+            we1.WhileExampleEx();*/
+
+            /*loopsWhile.DoWhileExample dwe1 = new loopsWhile.DoWhileExample();
+            dwe1.DoWhileEx1();*/
+
+            /*loopsFor.ForLoopExample fle1 = new loopsFor.ForLoopExample();
+            fle1.ForLoopEx();*/
+
+            /*loopsFor.ForEachExample feEx1 = new loopsFor.ForEachExample();
+            feEx1.ForEachex1();*/
+
+            /*loopsFor.övning31 o31 = new loopsFor.övning31();
+            o31.PrintNum();*/
+
+            /*loopsFor.övning32 o32 = new loopsFor.övning32();
+            o32.PrintEven();*/
+
+            /*loopsFor.övning33 o33 = new loopsFor.övning33();
+            o33.PrintOdd();*/
+
+            /*loopsWhile.övning34 o34 = new loopsWhile.övning34();
+            o34.PrintNumUntil();*/
+
+            /*loopsFor.övning35 o35 = new loopsFor.övning35();
+            o35.PrintSquareforNum();*/
+
+            /*loopsFor.övning37 o37 = new loopsFor.övning37();
+            o37.PrintInputNum();*/
+
+            loopsWhile.övning39 o39 = new loopsWhile.övning39();
+            o39.PrintPriceWithVat();
+
+
+            /*övning35 o35 = new övning35();
+            o35.Kvadrat();*/
 
             /*Console.WriteLine("Välj kategori i menyn");
             Console.WriteLine("");

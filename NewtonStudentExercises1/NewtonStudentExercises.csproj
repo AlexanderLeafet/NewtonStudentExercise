@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="loopsFor\" />
-    <Folder Include="loopsWhile\" />
-  </ItemGroup>
-
 </Project>

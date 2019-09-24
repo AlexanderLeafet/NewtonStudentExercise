@@ -31,3 +31,14 @@ C:\Users\Admin-d158\Github\Projects\NewtonStudentExercises\NewtonStudentExercise
 C:\Users\Admin-d158\Github\Projects\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfo.cs
 C:\Users\Admin-d158\Github\Projects\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.dll
 C:\Users\Admin-d158\Github\Projects\NewtonStudentExercises\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.deps.json
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.json
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.runtimeconfig.dev.json
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\bin\Debug\netcoreapp2.1\NewtonStudentExercises.pdb
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csprojAssemblyReference.cache
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfoInputs.cache
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.AssemblyInfo.cs
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.dll
+C:\Users\Administratör\GitHub\Projekt\NewtonStudentExercise\NewtonStudentExercises1\obj\Debug\netcoreapp2.1\NewtonStudentExercises.pdb

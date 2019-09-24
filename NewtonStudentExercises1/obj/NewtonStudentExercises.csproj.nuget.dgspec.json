@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin-d158\\Github\\Projects\\NewtonStudentExercises\\NewtonStudentExercises1\\NewtonStudentExercises.csproj": {}
+    "C:\\Users\\Administratör\\GitHub\\Projekt\\NewtonStudentExercise\\NewtonStudentExercises1\\NewtonStudentExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin-d158\\Github\\Projects\\NewtonStudentExercises\\NewtonStudentExercises1\\NewtonStudentExercises.csproj": {
+    "C:\\Users\\Administratör\\GitHub\\Projekt\\NewtonStudentExercise\\NewtonStudentExercises1\\NewtonStudentExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin-d158\\Github\\Projects\\NewtonStudentExercises\\NewtonStudentExercises1\\NewtonStudentExercises.csproj",
+        "projectUniqueName": "C:\\Users\\Administratör\\GitHub\\Projekt\\NewtonStudentExercise\\NewtonStudentExercises1\\NewtonStudentExercises.csproj",
         "projectName": "NewtonStudentExercises",
-        "projectPath": "C:\\Users\\Admin-d158\\Github\\Projects\\NewtonStudentExercises\\NewtonStudentExercises1\\NewtonStudentExercises.csproj",
-        "packagesPath": "C:\\Users\\Admin-d158\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin-d158\\Github\\Projects\\NewtonStudentExercises\\NewtonStudentExercises1\\obj\\",
+        "projectPath": "C:\\Users\\Administratör\\GitHub\\Projekt\\NewtonStudentExercise\\NewtonStudentExercises1\\NewtonStudentExercises.csproj",
+        "packagesPath": "C:\\Users\\Administratör\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administratör\\GitHub\\Projekt\\NewtonStudentExercise\\NewtonStudentExercises1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin-d158\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Administratör\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
