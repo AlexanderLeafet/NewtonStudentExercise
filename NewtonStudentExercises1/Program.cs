@@ -153,8 +153,11 @@ namespace NewtonStudentExercises
             /*övning49 o49 = new övning49();
             o49.PrintFunction();*/
 
-            loopsFor.övning51 o51 = new loopsFor.övning51();
-            o51.PrintNumSeven();
+            /*loopsFor.övning51 o51 = new loopsFor.övning51();
+            o51.PrintNumSeven();*/
+
+            loopsFor.övning52 o52 = new loopsFor.övning52();
+            o52.PrintSumOfPosNum();
 
 
             /*övning35 o35 = new övning35();
