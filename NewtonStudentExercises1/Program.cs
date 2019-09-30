@@ -156,30 +156,90 @@ namespace NewtonStudentExercises
             /*loopsFor.övning51 o51 = new loopsFor.övning51();
             o51.PrintNumSeven();*/
 
-            loopsFor.övning52 o52 = new loopsFor.övning52();
-            o52.PrintSumOfPosNum();
+            /*loopsFor.övning52 o52 = new loopsFor.övning52();
+            o52.PrintSumOfPosNum();*/
 
+            /*loopsFor.övning53 o53 = new loopsFor.övning53();
+            o53.PrintCorrectNum();*/
+
+            /*loopsFor.övning54 o54 = new loopsFor.övning54();
+            o54.PrintPosAndNeg();*/
+
+            /*loopsFor.övning55.RunÖvning55();*/
+
+            /*loopsWhile.övning56.Runövn56();*/
+
+            //loopsFor.övning58.Runövning58();
+
+            //loopsFor.övning59.RunÖvning59();
+
+            loopsWhile.övning60.Runövning60();
+
+            /*Arrays.Array1 a1 = new Arrays.Array1();
+            a1.ArrayEx();*/
+
+            /*Collections.Collection1 c1 = new Collections.Collection1();
+            c1.CollectionEx2();*/
+
+            /*Collections.Collection1.RunCollection();*/
 
             /*övning35 o35 = new övning35();
             o35.Kvadrat();*/
 
-            /*Console.WriteLine("Välj kategori i menyn");
-            Console.WriteLine("");
-            Console.WriteLine("1) IfConditions");
-            Console.WriteLine("2) loopsFor");
-            Console.WriteLine("3) loopsWhile");
-            Console.WriteLine("4) sequencePrograming");
-            int Meny = Convert.ToInt32(Console.ReadLine());
 
-            switch (Meny)
-            {
-                case 1:
-                    ifConditions = new ifConditions();
-                    o11.PrintIsVal1Bigger();*/
 
+
+            //ShowMainMenu();
         }
 
-
-        }
     }
+        /*private static void ShowMainMenu()
+        {
+            string Command;
+            
+            do
+            {
+                Console.WriteLine($"Welcome to the exercise menu!");
+                Console.WriteLine($"____________________________");
+                Console.WriteLine($"1) Foor Loops");
+                Console.WriteLine($"2) While Loops");
+                Console.WriteLine($"3) If Statements");
+                Console.WriteLine($"4) Sequence Programing");
+                Console.WriteLine($"5) Avsluta");
+                Command = Console.ReadLine();
+
+                switch (Command)
+                {
+                    case "1":
+                        Console.WriteLine($"Du valde Foor Loops");
+                        break;
+                    case "2":
+                        Console.WriteLine($"Du valde While Loops");
+                        break;
+                    case "3":
+                        Console.WriteLine($"Du valde If Statements");
+                        break;
+                    case "4":
+                        Console.WriteLine($"Du valde Sequence Programing");
+                        break;
+                    case "5":
+
+                      
+
+                    default:
+                        Console.WriteLine($"Error, fel inmatning");
+                        Console.ReadLine();
+                        break;
+
+
+                }
+                Console.ReadKey();
+                Console.Clear();
+            }
+            while (Command != "5");
+
+            
+       }*/
+    
+}
 
