@@ -195,7 +195,15 @@ namespace NewtonStudentExercises
 
             //Arrays.övning73.Runövning73();
 
-            Arrays.övning74.Runövning74();
+            //Arrays.övning74.Runövning74();
+
+            //Arrays.övning75.Runövning75();
+
+            //Arrays.övning76.Runövning76();
+
+            //Arrays.övning77.Runövning77();
+
+            Arrays.övning78.Runövning78();
 
             /*Arrays.Array1 a1 = new Arrays.Array1();
             a1.ArrayEx();*/
