@@ -203,7 +203,12 @@ namespace NewtonStudentExercises
 
             //Arrays.övning77.Runövning77();
 
-            Arrays.övning78.Runövning78();
+            //Arrays.övning78.Runövning78();
+
+            //Arrays.Online_övning1.RunOnline_övning1();
+
+            CreatingPassword password = new CreatingPassword();
+            password.ReadPassword();
 
             /*Arrays.Array1 a1 = new Arrays.Array1();
             a1.ArrayEx();*/
